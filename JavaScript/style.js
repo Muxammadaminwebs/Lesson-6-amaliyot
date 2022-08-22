@@ -1,6 +1,80 @@
 "use-strick"
 
 
+
+// // 1-misol
+
+
+
+// let n = 10;
+// let arr = [];
+// for( let i = 0; i<= n; i++ ){
+
+//     arr[i] = i;
+// }
+// console.log(arr)
+
+
+// 2-misol
+
+
+// let n = 10;
+// let arr = [];
+// for(let i = 0; i<= n; i++){
+// arr[i] = Math.pow( 2 , i );
+// }
+// console.log(arr)
+
+
+//   3 masala
+
+
+// let n=+prompt('n sonini');
+
+
+// let sum=0;
+// let arr=[];
+
+// for( let i = 0; i <= n; i++){
+
+//     arr[i]=i
+//    arr.push(i)
+//     sum=sum+arr[i]
+// }
+// console.log(arr , sum);
+
+
+
+//  4 masala
+
+// let n=+prompt(' n sonini ');
+// let arr=[];
+// let juft=0;
+// let toq=0;
+
+// for(let i=0; i<=n; i++){
+
+//     if(i%10==0){
+//         arr.push(i)
+
+//          }
+// }
+// for(let i=0; i<arr.length; i++){
+//     if(i%2==1){
+//         juft+=arr[i]
+//     }
+//     if(i%2==0){
+//         toq+=arr[i]
+//     }
+// }
+
+//  console.log( toq-juft ); 
+// console.log(`hisob ${ toq-juft }`);
+
+
+// console.log(arr , juft ,toq);
+
+
 // 5-masala //
 
 // let n = 5;
